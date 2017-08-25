@@ -1,2 +1,2 @@
-# compass-kannada
+# compass kannada
 privacy_policy
